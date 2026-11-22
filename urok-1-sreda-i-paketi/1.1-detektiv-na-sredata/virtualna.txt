@@ -1,0 +1,15 @@
+====================================================
+ДОКЛАД ЗА СРЕДАТА
+====================================================
+Версия на Python : 3.14.0
+Изпълним файл    : C:\Users\dimit\PycharmProjects\RPP11\.venv\Scripts\python.exe
+Базов префикс    : C:\Users\dimit\AppData\Local\Programs\Python\Python314
+Текущ префикс    : C:\Users\dimit\PycharmProjects\RPP11\.venv
+Работна папка    : C:\Users\dimit\PycharmProjects\RPP11
+Папки с инсталирани пакети:
+  C:\Users\dimit\PycharmProjects\RPP11\.venv
+  C:\Users\dimit\PycharmProjects\RPP11\.venv\Lib\site-packages
+Брой инсталирани пакети: 7
+====================================================
+СТАТУС: РАБОТИМ ВЪВ ВИРТУАЛНА СРЕДА.
+====================================================
